@@ -1,0 +1,10 @@
+total 16
+drwxr-xr-x 6 root root  162 Mar  7 05:50 .
+drwxr-xr-x 1 root root  189 Mar  2 02:58 ..
+drwxr-xr-x 4 root root 4096 Mar  3 09:01 0x00-shell_basics
+drwxr-xr-x 3 root root 4096 Mar  3 07:01 0x01-shell_permissions
+drwxr-xr-x 2 root root  295 Mar  7 05:34 0x02-shell_redirections
+-rwxr--r-- 1 root root   36 Mar  7 05:49 8-cwd_state
+drwxr-xr-x 8 root root  201 Mar  7 05:37 .git
+-rw-r--r-- 1 root root    0 Mar  7 05:50 ls_cwd_content
+-rw-r--r-- 1 root root   14 Mar  2 03:09 README.md
